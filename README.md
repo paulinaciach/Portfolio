@@ -1,5 +1,5 @@
 # PORTFOLIO
-#### Aplikacja udostępniajaca aktualna pogodę dla wskazanej miejscowości z możliwościa obejrzenia kamerek na żywo w wybranych lokalizacjach 
+####  
 
 ## Spis treści 
 * [Wprowadzenie](#wprowadzenie)
