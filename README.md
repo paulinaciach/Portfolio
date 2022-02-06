@@ -15,7 +15,7 @@ Dzięki przyswojeniu tego Portfolio będziesz miał profesjonalna wizytówkę.
 
 ## Wprowadzenie 
 
-<b>npm install</b>
+<b> - npm install</b>
 
 ### Architektura systemu i oprogramowania 
 
